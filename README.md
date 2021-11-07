@@ -5,4 +5,4 @@ Github action https://github.com/MunesYasin/basic-auth/runs/4132630486?check_sui
 
 Heroku 
 
-Pull Request https://github.com/MunesYasin/basic-auth/pull/1
+Pull Request https://github.com/MunesYasin/basic-auth/pull/2
