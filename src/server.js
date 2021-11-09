@@ -5,7 +5,7 @@ const app = express()
 
 require('dotenv').config()
 
-const PORT = 3000
+const PORT = 3005
 const singup = require('./auth/sign-up')
 const signin = require('./auth/sign-in')
 const notFoundHandler = require('./error-handler/404')
